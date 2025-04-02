@@ -15,7 +15,7 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl scr
 
 第3步克隆gensyn仓库并进入
 
-git clone https://github.com/zunxbt/rl-swarm.git && cd rl-swarm
+git clone https://github.com/gensyn-ai/rl-swarm && cd rl-swarm
 
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 1
 
