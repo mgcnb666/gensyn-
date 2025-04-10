@@ -37,7 +37,7 @@ apt update && apt install -y wget
 
 第3步克隆gensyn仓库并进入
 
-git clone https://github.com/mgcnb666/rl-swarmnb && cd rl-swarmnb
+git clone https://github.com/mgcnb666/rl-swarm && cd rl-swarm
 
 chmod +x run_rl_swarm.sh
 
